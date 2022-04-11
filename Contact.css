@@ -1,0 +1,33 @@
+*{
+    margin:0;
+    padding: 0;
+    
+}
+#navbar{
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    color: white;
+    height: 30px;
+    padding: 1%;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+
+table{
+    width: 70%;
+    border: 1px solid black;
+    margin: auto;
+    text-align: left;
+    margin-top: 50px;
+}
+thead{
+    background-color: green;
+    color: white;
+   
+}
+tbody{
+    border: 1px solid black;
+}
